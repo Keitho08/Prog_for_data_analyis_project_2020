@@ -1,5 +1,5 @@
 
-# Programing for Data Analysis - Project 2020
+# Programming for Data Analysis - Project 2020
 
 ## Galway Mayo Intitute of Technology - HDip Data Analytics 2020-2021
 ***
